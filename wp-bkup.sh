@@ -12,7 +12,7 @@ echo "Working Directory: $(pwd)"
 
 env
 
-yum install zip unzip -y
+sudo yum install zip unzip -y
 
 cd /var/www
 
